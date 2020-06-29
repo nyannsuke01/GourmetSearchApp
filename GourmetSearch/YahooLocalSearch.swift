@@ -112,7 +112,7 @@ public struct QueryCondition {
 
 public class YahooLocalSearch {
   // Yahoo!ローカルサーチAPIのアプリケーションID
-  let apiId = "（アプリケーションID）"
+  let apiId = "dj00aiZpPXA3bkZxN3Z2cWFCYiZzPWNvbnN1bWVyc2VjcmV0Jng9YWI"
   
   // APIのベースURL
   // このURLは2016年6月30日まで使用可能です
